@@ -6,6 +6,6 @@ namespace ChessBoard
 {
     class NotExistentChessCellException : Exception
     {
-        public override string Message => "NotExistentChessCellException";
+        public override string Message => "NotExistentChessCellException"; //Message
     }
 }
