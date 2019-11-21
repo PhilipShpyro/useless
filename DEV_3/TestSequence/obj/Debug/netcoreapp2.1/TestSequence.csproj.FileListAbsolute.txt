@@ -1,0 +1,17 @@
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\bin\Debug\netcoreapp2.1\TestSequence.deps.json
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\bin\Debug\netcoreapp2.1\TestSequence.runtimeconfig.json
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\bin\Debug\netcoreapp2.1\TestSequence.runtimeconfig.dev.json
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\bin\Debug\netcoreapp2.1\TestSequence.dll
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\bin\Debug\netcoreapp2.1\TestSequence.pdb
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\bin\Debug\netcoreapp2.1\DEV-3.dll
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\bin\Debug\netcoreapp2.1\DEV-3.pdb
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\obj\Debug\netcoreapp2.1\TestSequence.csprojAssemblyReference.cache
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\obj\Debug\netcoreapp2.1\TestSequence.csproj.CoreCompileInputs.cache
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\obj\Debug\netcoreapp2.1\TestSequence.AssemblyInfoInputs.cache
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\obj\Debug\netcoreapp2.1\TestSequence.AssemblyInfo.cs
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\obj\Debug\netcoreapp2.1\TestSequence.csproj.CopyComplete
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\obj\Debug\netcoreapp2.1\TestSequence.dll
+C:\Users\Philipp\source\repos\DEV-3\TestSequence\obj\Debug\netcoreapp2.1\TestSequence.pdb
