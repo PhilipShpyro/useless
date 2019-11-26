@@ -6,8 +6,8 @@ namespace DEV_3
     {
         static void Main(string[] args)
         {
-            //Sequence sequence = new Sequence("deadline");
-            //Console.WriteLine(sequence.GetChangedString());
+            Sequence sequence = new Sequence("deadline");
+            Console.WriteLine(sequence.GetChangedString());
         }
     }
 }
