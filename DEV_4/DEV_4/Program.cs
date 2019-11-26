@@ -23,6 +23,10 @@ namespace DEV_4
             IWebElement passswordField = wait.Until(ExpectedConditions.ElementIsVisible(By.CssSelector("input[type='password']")));
             passswordField.SendKeys(PASSWORD);
             button.Click();
+            
+            IWebElement msgNumber = wait.Until(ExpectedConditions.ElementIsVisible(By.ClassName("badge__text")));
+            Console.WriteLine("Number of unread messages " + msgNumber.Text);
+            driver.Quit();
         }
     }
 }
